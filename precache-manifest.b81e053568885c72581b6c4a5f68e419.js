@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a63c1d787105a332c8ab98a817789e08",
+    "revision": "693404c732c7a91eae4f112f49b74126",
     "url": "/liffreact/index.html"
   },
   {
-    "revision": "84260b5f4effa476b3f8",
+    "revision": "c80ec23fe35e126f1e07",
     "url": "/liffreact/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/liffreact/static/js/2.522202ea.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "84260b5f4effa476b3f8",
-    "url": "/liffreact/static/js/main.837c1c01.chunk.js"
+    "revision": "c80ec23fe35e126f1e07",
+    "url": "/liffreact/static/js/main.f7d3a9f9.chunk.js"
   },
   {
     "revision": "3a791447cedd04b1ed2a",
