@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d65546e3824b92d4a7cae494f5f70d1",
+    "revision": "693404c732c7a91eae4f112f49b74126",
     "url": "/liffreact/index.html"
   },
   {
