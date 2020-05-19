@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/liffreact/static/css/main.5f361e03.chunk.css",
-    "main.js": "/liffreact/static/js/main.f7d3a9f9.chunk.js",
-    "main.js.map": "/liffreact/static/js/main.f7d3a9f9.chunk.js.map",
+    "main.js": "/liffreact/static/js/main.e39e7d57.chunk.js",
+    "main.js.map": "/liffreact/static/js/main.e39e7d57.chunk.js.map",
     "runtime-main.js": "/liffreact/static/js/runtime-main.0a2b93c5.js",
     "runtime-main.js.map": "/liffreact/static/js/runtime-main.0a2b93c5.js.map",
-    "static/js/2.522202ea.chunk.js": "/liffreact/static/js/2.522202ea.chunk.js",
-    "static/js/2.522202ea.chunk.js.map": "/liffreact/static/js/2.522202ea.chunk.js.map",
+    "static/js/2.0ece7233.chunk.js": "/liffreact/static/js/2.0ece7233.chunk.js",
+    "static/js/2.0ece7233.chunk.js.map": "/liffreact/static/js/2.0ece7233.chunk.js.map",
     "index.html": "/liffreact/index.html",
-    "precache-manifest.b81e053568885c72581b6c4a5f68e419.js": "/liffreact/precache-manifest.b81e053568885c72581b6c4a5f68e419.js",
+    "precache-manifest.5e76222d665539e464c4a842df345ada.js": "/liffreact/precache-manifest.5e76222d665539e464c4a842df345ada.js",
     "service-worker.js": "/liffreact/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/liffreact/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.522202ea.chunk.js.LICENSE.txt": "/liffreact/static/js/2.522202ea.chunk.js.LICENSE.txt",
+    "static/js/2.0ece7233.chunk.js.LICENSE.txt": "/liffreact/static/js/2.0ece7233.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/liffreact/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0a2b93c5.js",
-    "static/js/2.522202ea.chunk.js",
+    "static/js/2.0ece7233.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.f7d3a9f9.chunk.js"
+    "static/js/main.e39e7d57.chunk.js"
   ]
 }

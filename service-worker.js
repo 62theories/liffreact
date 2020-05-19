@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/liffreact/precache-manifest.b81e053568885c72581b6c4a5f68e419.js"
+  "/liffreact/precache-manifest.5e76222d665539e464c4a842df345ada.js"
 );
 
 self.addEventListener('message', (event) => {
