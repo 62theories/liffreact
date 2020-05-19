@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/liffreact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/liffreact/static/js/main.837c1c01.chunk.js",
+    "main.js.map": "/liffreact/static/js/main.837c1c01.chunk.js.map",
+    "runtime-main.js": "/liffreact/static/js/runtime-main.0a2b93c5.js",
+    "runtime-main.js.map": "/liffreact/static/js/runtime-main.0a2b93c5.js.map",
+    "static/js/2.522202ea.chunk.js": "/liffreact/static/js/2.522202ea.chunk.js",
+    "static/js/2.522202ea.chunk.js.map": "/liffreact/static/js/2.522202ea.chunk.js.map",
+    "index.html": "/liffreact/index.html",
+    "precache-manifest.9fdf2ab5c04f772460ad90cd06a09bbd.js": "/liffreact/precache-manifest.9fdf2ab5c04f772460ad90cd06a09bbd.js",
+    "service-worker.js": "/liffreact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/liffreact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.522202ea.chunk.js.LICENSE.txt": "/liffreact/static/js/2.522202ea.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/liffreact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a2b93c5.js",
+    "static/js/2.522202ea.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.837c1c01.chunk.js"
+  ]
+}
